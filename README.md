@@ -18,5 +18,12 @@ Client Front End
 ![Screen Shot 2021-06-21 at 05 17 30](https://user-images.githubusercontent.com/82680108/122738584-1ebf4400-d250-11eb-8939-fcf6c6a999e5.png)
 
 
+![Screen Shot 2021-06-21 at 05 23 11](https://user-images.githubusercontent.com/82680108/122739316-dce2cd80-d250-11eb-9873-cbc47b755911.png)
+
+![Screen Shot 2021-06-21 at 05 23 00](https://user-images.githubusercontent.com/82680108/122739326-df452780-d250-11eb-9cea-50a768719966.png)
+
+![Screen Shot 2021-06-21 at 05 22 47](https://user-images.githubusercontent.com/82680108/122739338-e10eeb00-d250-11eb-929c-17f6186d468b.png)
+
+![Screen Shot 2021-06-21 at 05 22 36](https://user-images.githubusercontent.com/82680108/122739344-e2d8ae80-d250-11eb-9f1c-73c003435ff0.png)
 
 
