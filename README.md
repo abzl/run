@@ -28,8 +28,6 @@ The RunLab app provides running shoe reviews from our passionate users and gener
 
 ![Screen Shot 2021-06-21 at 05 17 11](https://user-images.githubusercontent.com/82680108/122738587-1f57da80-d250-11eb-8987-ae14dbd7e51a.png)
 
-![Screen Shot 2021-06-22 at 11 56 17](https://user-images.githubusercontent.com/82680108/122958638-e81d2280-d350-11eb-9967-abebdcee31ac.png)
-
 ![Screen Shot 2021-06-22 at 11 58 54](https://user-images.githubusercontent.com/82680108/122960294-477b3280-d351-11eb-92e7-7c3fad7baa8e.png)
 
 ![Screen Shot 2021-06-21 at 05 17 20](https://user-images.githubusercontent.com/82680108/122738586-1f57da80-d250-11eb-9e6f-d7581b6c5213.png)
