@@ -19,9 +19,9 @@ The RUN app allows users to see usefull information (description and features) a
 ## Libraries and Dependencies
 - React: declarative, efficient and flexible Javascript library for building user interfaces.
 - React Router: collection of navigational components that compose declaratively with your application.
-- React Boostrap:
+- Ruby on Rails: Ruby is a dynamic, interpreted language for object-oriented programming. Rails is a webdevelopment framework written in Ruy language.
+- React Boostrap: the most popular framework to build responsive websites. Every component in React B. has been built from scratch as a true React component.
 - PRY: interactive shell for Ruby programming. Notable for its Smalltalk-inspired ability to start REPL within a running program. This let programmers debug and modify the current state of a system.
-
 
 ## Client (Front End) 
 
