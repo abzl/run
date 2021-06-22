@@ -44,6 +44,8 @@ The RUN app allows users to see usefull information (description and features) a
 
 ## Component Tree
 
+![Screen Shot 2021-06-22 at 07 58 31](https://user-images.githubusercontent.com/82680108/122920776-c0699280-d32f-11eb-9197-9c5ac2177357.png)
+
 ## Component Architecture
 
 ## Time Estimates
