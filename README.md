@@ -1,18 +1,18 @@
-# run
+# RunLab
 
 ## Overview
 
-The RUN app allows users to see usefull information (description and features) and to leave reviews. At this time, only visitors with an acount can leave reviews and or delete posts. This application was created for those runners that want more information before buying their next running shoes. 
+The RUN app allows users to see usefull information (features and user's comments) and to leave reviews. At this time, only visitors with an acount can leave reviews and or delete posts. This application was created for those runners that want more information before buying their next running shoes. 
 
 ## MVP
-- Full CRUD capacity backend (Ruby on RAil server and RESTful JSON endpoints).
+- Full CRUD capacity backend (Ruby on Rails server and RESTful JSON endpoints).
 - Full CRUD capacity frontend (8 rendered components in a well organized React file structure).
 - Responsive design (mobile and desktop).
-- User Sign Up/In Authentication.ploy 
-- Deploy using Netlify (frontend) and Heroku (backend).
+- User Sign Up/In Authentication.
+- Deployment using Netlify (frontend) and Heroku (backend).
 
 ## Goals 
-- Create an application that helps your average runner.
+- Create an application that helps your average runner and newbies.
 - Create a simple and minimalist app app that just does the job.
 - Implement the lastest and most powerful technologies. 
 
@@ -33,14 +33,19 @@ The RUN app allows users to see usefull information (description and features) a
 
 ![Screen Shot 2021-06-21 at 05 17 30](https://user-images.githubusercontent.com/82680108/122738584-1ebf4400-d250-11eb-8939-fcf6c6a999e5.png)
 
-
-![Screen Shot 2021-06-21 at 05 23 11](https://user-images.githubusercontent.com/82680108/122739316-dce2cd80-d250-11eb-9873-cbc47b755911.png)
-
-![Screen Shot 2021-06-21 at 05 23 00](https://user-images.githubusercontent.com/82680108/122739326-df452780-d250-11eb-9cea-50a768719966.png)
-
 ![Screen Shot 2021-06-21 at 05 22 47](https://user-images.githubusercontent.com/82680108/122739338-e10eeb00-d250-11eb-929c-17f6186d468b.png)
 
 ![Screen Shot 2021-06-21 at 05 22 36](https://user-images.githubusercontent.com/82680108/122739344-e2d8ae80-d250-11eb-9f1c-73c003435ff0.png)
+
+![Screen Shot 2021-06-21 at 05 23 00](https://user-images.githubusercontent.com/82680108/122739326-df452780-d250-11eb-9cea-50a768719966.png)
+
+![Screen Shot 2021-06-21 at 05 23 11](https://user-images.githubusercontent.com/82680108/122739316-dce2cd80-d250-11eb-9873-cbc47b755911.png)
+
+
+
+
+
+
 
 ## Component Tree
 
