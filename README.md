@@ -1,8 +1,7 @@
 # RunLab
 
 ## Overview
-
-The RUN app allows users to see usefull information (features and user's comments) and to leave reviews. At this time, only visitors with an acount can leave reviews and or delete posts. This application was created for those runners that want more information before buying their next running shoes. 
+The RunLab app provides running shoe reviews from our passionate users and general information such as price, manufacturer's website, and description so you can make a better decision next time your buying sneakers. At this time, only users with a login id will be able to leave reviews.
 
 ## MVP
 - Full CRUD capacity backend (Ruby on Rails server and RESTful JSON endpoints).
