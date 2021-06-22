@@ -5,15 +5,19 @@
 The RUN app allows users to see usefull information (description and features) and to leave reviews. At this time, only visitors with an acount can leave reviews and or delete posts. This application was created for those runners that want more information before buying their next runnign shoes. 
 
 ## MVP
--
-- Full CRUD capacity frontend (create screen, detail screen)
-- Full CRUD capacity backend (Ruby on Rails)
-- Responsive design (mobile and desktop)
-- User Sign Up/In Authentication.
+- Full CRUD capacity backend (Ruby on RAil server and RESTful JSON endpoints).
+- Full CRUD capacity frontend (8 rendered components in a well organized React file structure).
+- Responsive design (mobile and desktop).
+- User Sign Up/In Authentication.ploy 
+- Deploy using Netlify (frontend) and Heroku (backend).
 
 ## Goals 
+- Create an application that helps your average runner.
+- Create a simple and minimalist app app that just does the job.
+- Implement the lastest and most powerful technologies. 
 
 ## Libraries and Dependencies
+
 
 ## Client (Front End) 
 
