@@ -71,7 +71,6 @@ The RunLab app provides running shoe reviews from our passionate users and gener
 
 ## ERD Model
 
-![ERD-P4](https://user-images.githubusercontent.com/82680108/122913884-04f13000-d328-11eb-8743-c239379d39cd.png)
 
 
 ## Post MVP
