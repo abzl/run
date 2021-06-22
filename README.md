@@ -17,6 +17,10 @@ The RUN app allows users to see usefull information (description and features) a
 - Implement the lastest and most powerful technologies. 
 
 ## Libraries and Dependencies
+- React: declarative, efficient and flexible Javascript library for building user interfaces.
+- React Router: collection of navigational components that compose declaratively with your application.
+- React Boostrap:
+- PRY: interactive shell for Ruby programming. Notable for its Smalltalk-inspired ability to start REPL within a running program. This let programmers debug and modify the current state of a system.
 
 
 ## Client (Front End) 
