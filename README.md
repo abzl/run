@@ -70,8 +70,7 @@ The RunLab app provides running shoe reviews from our passionate users and gener
 - Revisiting styling = 2hrs.
 
 ## ERD Model
-
-
+![Screen Shot 2021-06-22 at 16 39 18](https://user-images.githubusercontent.com/82680108/123000133-2c261c80-d37d-11eb-846f-ed0b7bcbccdb.png)
 
 ## Post MVP
 - Landing page.
