@@ -48,6 +48,10 @@ The RUN app allows users to see usefull information (description and features) a
 
 ## Component Architecture
 
+![file-arc1](https://user-images.githubusercontent.com/82680108/122945869-e2224400-d346-11eb-9ff1-88dc1c519861.png)
+![file-arc2](https://user-images.githubusercontent.com/82680108/122945881-e4849e00-d346-11eb-897d-41e6da1f5719.png)
+
+
 ## Time Estimates
 - Proposal and getting project approved = 3hrs.
 - Data collection (images, description, and more) = 2hrs.
