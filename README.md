@@ -2,7 +2,7 @@
 
 ## Overview
 
-The RUN app allows users to see usefull information (description and features) and to leave reviews. At this time, only visitors with an acount can leave reviews and or delete posts. This application was created for those runners that want more information before buying their next runnign shoes. 
+The RUN app allows users to see usefull information (description and features) and to leave reviews. At this time, only visitors with an acount can leave reviews and or delete posts. This application was created for those runners that want more information before buying their next running shoes. 
 
 ## MVP
 - Full CRUD capacity backend (Ruby on RAil server and RESTful JSON endpoints).
@@ -47,9 +47,15 @@ The RUN app allows users to see usefull information (description and features) a
 ## Component Architecture
 
 ## Time Estimates
-
-Server (Back End)
-ERD Model
+- Proposal and getting project approved = 3hrs.
+- Data collection (images, description, and more) = 2hrs.
+- Setting back end (creating databases,testing api)  = 8hrs.
+- Setting front end = 8hrs.
+- Testing back and front end = 2hrs.
+- Styling with flexbox and grid = 4hrs.
+- Media Queries (mobile and tablet) = 4hrs.
+- Post MVP (hamburger menu and landing page) = 4hrs
+- Revisiting styling = 2hrs.
 
 ## Post MVP
 - Landing page.
