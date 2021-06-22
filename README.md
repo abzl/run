@@ -1,21 +1,21 @@
 # run
 
-#1 Overview
+# Overview
 
 The RUN app allows users to see usefull information (description and features) and to leave reviews. At this time, only visitors with an acount can leave reviews and or delete posts. This application was created for those runners that want more information before buying their next runnign shoes. 
 
-MVP
+# MVP
 -
 - Full CRUD capacity frontend (create screen, detail screen)
 - Full CRUD capacity backend (Ruby on Rails)
 - Responsive design (mobile and desktop)
 - User Sign Up/In Authentication.
 
-Goals 
+# Goals 
 
-Libraries and Dependencies
+# Libraries and Dependencies
 
-Client (Front End) 
+# Client (Front End) 
 
 ![Screen Shot 2021-06-21 at 05 17 02](https://user-images.githubusercontent.com/82680108/122738566-1a932680-d250-11eb-8119-8ff9b967c55f.png)
 
@@ -34,16 +34,16 @@ Client (Front End)
 
 ![Screen Shot 2021-06-21 at 05 22 36](https://user-images.githubusercontent.com/82680108/122739344-e2d8ae80-d250-11eb-9f1c-73c003435ff0.png)
 
-Component Tree
+# Component Tree
 
-Component Architecture
+# Component Architecture
 
-Time Estimates
+# Time Estimates
 
 Server (Back End)
 ERD Model
 
-Post MVP
+# Post MVP
 - Landing page.
 - Search bar.
 - Hamburger menu.
