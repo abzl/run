@@ -30,7 +30,6 @@ The RunLab app provides running shoe reviews from our passionate users and gener
 
 ![RUNLAB (2)](https://user-images.githubusercontent.com/82680108/123104996-6c30e200-d405-11eb-9ad0-3c849b230d24.png)
 
-![RUNLAB (1)](https://user-images.githubusercontent.com/82680108/123105001-6c30e200-d405-11eb-8025-60ce7775d93b.png)
 
 ![RUNLAB (3)](https://user-images.githubusercontent.com/82680108/123104992-6b984b80-d405-11eb-9015-14fb5d841188.png)
 
