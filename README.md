@@ -22,13 +22,7 @@ The RunLab app provides running shoe reviews from our passionate users and gener
 - React Boostrap: the most popular framework to build responsive websites. Every component in React B. has been built from scratch as a true React component.
 - PRY: interactive shell for Ruby programming. Notable for its Smalltalk-inspired ability to start REPL within a running program. This let programmers debug and modify the current state of a system.
 
-## Client (Front End) 
-![RUNLAB (4)](https://user-images.githubusercontent.com/82680108/123102806-6c2fe280-d403-11eb-99b1-71d1e912e3de.png)
-
-[RUNLAB (4).pdf](https://github.com/abzl/runlab/files/6702056/RUNLAB.4.pdf)
-
-
-![RUNLAB (1)](https://user-images.githubusercontent.com/82680108/123029625-69a39d80-d3af-11eb-9e60-c6381068653d.png)
+## Client (Front End)
 
 
 ![Screen Shot 2021-06-21 at 05 17 02](https://user-images.githubusercontent.com/82680108/122738566-1a932680-d250-11eb-8119-8ff9b967c55f.png)
