@@ -24,7 +24,7 @@ The RunLab app provides running shoe reviews from our passionate users and gener
 
 ## Client (Front End)
 
-![RUNLAB (4)](https://user-images.githubusercontent.com/82680108/123105012-6e933c00-d405-11eb-89c7-632321e8aadb.png)
+![RUNLAB](https://user-images.githubusercontent.com/82680108/123105004-6c30e200-d405-11eb-9714-f67feb4d31d6.png)
 
 ![RUNLAB (4)](https://user-images.githubusercontent.com/82680108/123105012-6e933c00-d405-11eb-89c7-632321e8aadb.png)
 
@@ -34,9 +34,6 @@ The RunLab app provides running shoe reviews from our passionate users and gener
 
 ![RUNLAB (1)](https://user-images.githubusercontent.com/82680108/123105001-6c30e200-d405-11eb-8025-60ce7775d93b.png)
 
-![RUNLAB](https://user-images.githubusercontent.com/82680108/123105004-6c30e200-d405-11eb-9714-f67feb4d31d6.png)
-
-![RUNLAB (4)](https://user-images.githubusercontent.com/82680108/123105012-6e933c00-d405-11eb-89c7-632321e8aadb.png)
 
 ![Screen Shot 2021-06-23 at 09 20 30](https://user-images.githubusercontent.com/82680108/123103745-51aa3900-d404-11eb-8545-13e7e4ac74f7.png)
 ![Screen Shot 2021-06-23 at 09 20 12](https://user-images.githubusercontent.com/82680108/123103749-51aa3900-d404-11eb-9627-18b67586df64.png)
