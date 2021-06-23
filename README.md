@@ -24,25 +24,6 @@ The RunLab app provides running shoe reviews from our passionate users and gener
 
 ## Client (Front End) 
 
-[RUNLAB.pdf](https://github.com/abzl/runlab/files/6701990/RUNLAB.pdf)
-
-[RUNLAB (4).pdf](https://github.com/abzl/runlab/files/6701992/RUNLAB.4.pdf)
-
-[RUNLAB (2).pdf](https://github.com/abzl/runlab/files/6701994/RUNLAB.2.pdf)
-
-[RUNLAB (3).pdf](https://github.com/abzl/runlab/files/6701995/RUNLAB.3.pdf)
-
-[RUNLAB (1).pdf](https://github.com/abzl/runlab/files/6701999/RUNLAB.1.pdf)
-
-[RUNLAB (9).pdf](https://github.com/abzl/runlab/files/6702001/RUNLAB.9.pdf)
-
-[RUNLAB (8).pdf](https://github.com/abzl/runlab/files/6702002/RUNLAB.8.pdf)
-
-[RUNLAB (7).pdf](https://github.com/abzl/runlab/files/6702003/RUNLAB.7.pdf)
-
-[RUNLAB (6).pdf](https://github.com/abzl/runlab/files/6702004/RUNLAB.6.pdf)
-
-[RUNLAB (5).pdf](https://github.com/abzl/runlab/files/6702005/RUNLAB.5.pdf)
 
 
 ![RUNLAB (1)](https://user-images.githubusercontent.com/82680108/123029625-69a39d80-d3af-11eb-9e60-c6381068653d.png)
