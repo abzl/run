@@ -35,38 +35,15 @@ The RunLab app provides running shoe reviews from our passionate users and gener
 ![RUNLAB (3)](https://user-images.githubusercontent.com/82680108/123104992-6b984b80-d405-11eb-9015-14fb5d841188.png)
 
 
-
 ![Screen Shot 2021-06-23 at 09 20 30](https://user-images.githubusercontent.com/82680108/123103745-51aa3900-d404-11eb-8545-13e7e4ac74f7.png)
+
 ![Screen Shot 2021-06-23 at 09 20 12](https://user-images.githubusercontent.com/82680108/123103749-51aa3900-d404-11eb-9627-18b67586df64.png)
+
 ![Screen Shot 2021-06-23 at 09 19 53](https://user-images.githubusercontent.com/82680108/123103751-5242cf80-d404-11eb-8038-d5370a670992.png)
+
 ![Screen Shot 2021-06-23 at 09 19 37](https://user-images.githubusercontent.com/82680108/123103753-5242cf80-d404-11eb-94c4-1297138bb4f6.png)
+
 ![Screen Shot 2021-06-23 at 09 19 20](https://user-images.githubusercontent.com/82680108/123103754-5242cf80-d404-11eb-9025-28138df47ee2.png)
-
-
-
-![Screen Shot 2021-06-21 at 05 17 02](https://user-images.githubusercontent.com/82680108/122738566-1a932680-d250-11eb-8119-8ff9b967c55f.png)
-
-![Screen Shot 2021-06-21 at 05 17 11](https://user-images.githubusercontent.com/82680108/122738587-1f57da80-d250-11eb-8987-ae14dbd7e51a.png)
-
-![Screen Shot 2021-06-22 at 11 58 54](https://user-images.githubusercontent.com/82680108/122960294-477b3280-d351-11eb-92e7-7c3fad7baa8e.png)
-
-![Screen Shot 2021-06-21 at 05 17 20](https://user-images.githubusercontent.com/82680108/122738586-1f57da80-d250-11eb-9e6f-d7581b6c5213.png)
-
-![Screen Shot 2021-06-21 at 05 17 30](https://user-images.githubusercontent.com/82680108/122738584-1ebf4400-d250-11eb-8939-fcf6c6a999e5.png)
-
-![Screen Shot 2021-06-21 at 05 22 47](https://user-images.githubusercontent.com/82680108/122739338-e10eeb00-d250-11eb-929c-17f6186d468b.png)
-
-![Screen Shot 2021-06-21 at 05 22 36](https://user-images.githubusercontent.com/82680108/122739344-e2d8ae80-d250-11eb-9f1c-73c003435ff0.png)
-
-![Screen Shot 2021-06-21 at 05 23 00](https://user-images.githubusercontent.com/82680108/122739326-df452780-d250-11eb-9cea-50a768719966.png)
-
-![Screen Shot 2021-06-21 at 05 23 11](https://user-images.githubusercontent.com/82680108/122739316-dce2cd80-d250-11eb-9873-cbc47b755911.png)
-
-
-
-
-
-
 
 ## Component Tree
 
