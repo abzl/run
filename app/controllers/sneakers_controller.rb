@@ -18,7 +18,7 @@ class SneakersController < ApplicationController
     @sneaker = Sneaker.new(sneaker_params)
 
     if @sneaker.save
-      render json: @sneaker, status: :created, location: @sneaker
+      render json: @sneaker, status: :created
     else
       render json: @sneaker.errors, status: :unprocessable_entity
     end
