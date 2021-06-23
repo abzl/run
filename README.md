@@ -23,6 +23,8 @@ The RunLab app provides running shoe reviews from our passionate users and gener
 - PRY: interactive shell for Ruby programming. Notable for its Smalltalk-inspired ability to start REPL within a running program. This let programmers debug and modify the current state of a system.
 
 ## Client (Front End) 
+![RUNLAB (4)](https://user-images.githubusercontent.com/82680108/123102806-6c2fe280-d403-11eb-99b1-71d1e912e3de.png)
+
 [RUNLAB (4).pdf](https://github.com/abzl/runlab/files/6702056/RUNLAB.4.pdf)
 
 
