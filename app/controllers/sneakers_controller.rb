@@ -1,5 +1,6 @@
 class SneakersController < ApplicationController
   before_action :set_sneaker, only: [:show, :update, :destroy]
+  before_action :authorize_request, only: [:create, :update, :destroy] #need to be logged in to create, update or delete
 
   # GET /sneakers
   def index
@@ -10,7 +11,7 @@ class SneakersController < ApplicationController
 
   # GET /sneakers/1
   def show
-    render json: @sneaker
+    render json: @sneaker, include: :reviews
   end
 
   # POST /sneakers
@@ -46,6 +47,6 @@ class SneakersController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def sneaker_params
-      params.require(:sneaker).permit(:name, :user_id, :title, :price, :features, :img_url)
+      params.require(:sneaker).permit(:name, :title, :price, :features, :img_url) # removed :user_id
     end
 end
