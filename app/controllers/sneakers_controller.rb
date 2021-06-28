@@ -17,7 +17,7 @@ class SneakersController < ApplicationController
   # POST /sneakers
   def create
     @sneaker = Sneaker.new(sneaker_params)
-
+    @sneaker.user = @current_user
     if @sneaker.save
       render json: @sneaker, status: :created
     else

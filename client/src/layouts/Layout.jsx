@@ -1,13 +1,29 @@
-import { Link } from "react-router-dom";
+import { Link } from 'react-router-dom';
 
 export default function Layout(props) {
-  return (
-    <div>
-      <header>
-        <h1>RUNLAB</h1>
-        <Link to='/login'>Login/Register</Link>
-      </header>
-      {props.children}
-    </div>
-  );
+	const { currentUser, handleLogout, children } = props;
+	return (
+		<div>
+			<header>
+				<h1>RUNLAB</h1>
+				{currentUser ? (
+					<>
+						<p>{currentUser.username}</p>
+						<button onClick={handleLogout}>Logout</button>
+					</>
+				) : (
+					<Link to='/login'>Login</Link>
+				)}
+				<hr />
+        {
+          currentUser && 
+          <>
+            <Link to='/'></Link>
+            <Link to='/'></Link>
+          </>
+        }
+			</header>
+			{children}
+		</div>
+	);
 }
