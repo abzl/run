@@ -26,6 +26,7 @@ export default function SneakersEdit(props) {
 		if (sneakers.length) {
 			prefillFormData();
 		}
+  // eslint-disable-next-line
   }, [sneakers]);
   
 	const handleChange = (e) => {

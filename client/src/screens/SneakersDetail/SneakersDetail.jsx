@@ -5,7 +5,7 @@ import { getOneSneaker } from '../../services/sneakers';
 
 export default function SneakersDetail(props) {
   const [sneakerItem, setSneakerItem] = useState(null);
-  const { sneakers, handleDelete } = props;
+  const { handleDelete } = props;
 	const { id } = useParams();
  
   useEffect(() => {
