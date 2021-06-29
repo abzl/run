@@ -10,7 +10,7 @@ export default function Layout(props) {
 				{currentUser ? (
           <>
             <p className="current-user">{currentUser.username}</p>
-						<button className="button" onClick={handleLogout}>Logout</button>
+						<button className="button-login" onClick={handleLogout}>Logout</button>
 					</>
 				) : (
 					<Link to='/login'>Login</Link>

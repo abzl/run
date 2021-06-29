@@ -16,7 +16,7 @@ puts "#{User.count} users created"
 @user = User.create!(username: 'user1', email: 'test@starwar.com', password: 'passw123')
 puts "#{User.count} users created"
 
-@shoe = Sneaker.create!(user: @user, name: 'ASICS Gel-Kayano 27', price: 120, features:'' img_url: 'https://cdn.fleetfeet.com/products/1011A767_021_SR_RT_PNG_1280x1280JPG.jpg/width:640-height:480-fit:trim/1011A767_021_SR_RT_PNG_1280x1280JPG.webp?signature=7c7e30a2')
+@shoe = Sneaker.create!(user: @user, name: 'ASICS Gel-Kayano 27', price: 120, features:'', img_url: 'https://cdn.fleetfeet.com/products/1011A767_021_SR_RT_PNG_1280x1280JPG.jpg/width:640-height:480-fit:trim/1011A767_021_SR_RT_PNG_1280x1280JPG.webp?signature=7c7e30a2')
 puts "#{Sneaker.count} shoe created"
 
 @shoe = Sneaker.create!(user: @user, name: 'New Balance Fresh Foam More V2', price: 120, features:'', img_url: 'https://cdn.fleetfeet.com/products/mmorgg2_2.jpg/width:640-height:480-fit:trim/mmorgg2_2.webp?signature=1ba1b477')
@@ -34,5 +34,5 @@ puts "#{Sneaker.count} shoe created"
 @shoe = Sneaker.create!(user: @user, name: 'Hoka One One Clifton 7', price: 110, features:'', img_url: 'https://cdn.fleetfeet.com/products/1110508-MOAN_7.jpg/width:640-height:480-fit:trim/1110508-MOAN_7.webp?signature=d97ca62c')
 puts "#{Sneaker.count} shoe created"
 
-@review = Review.create!(content: '', user:@user, sneaker:@shoe)
+@review = Review.create!(content: 'Comfortable and light weight shoes! Five stars.', user:@user, sneaker:@shoe)
 puts "#{Review.count} review created"

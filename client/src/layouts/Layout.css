@@ -6,10 +6,20 @@ header {
 }
 
 h1 {
-  color: white;
+    color: white;
 }
 
 .current-user {
-  text-align: center;
+    text-align: right;
+    color: white;
+    font-weight: bold;
+}
+
+.button-login {
+  border: none;
+  /* color: white; */
+  font-size: 16px;
+  text-align: right;
+  border: none;
 }
 

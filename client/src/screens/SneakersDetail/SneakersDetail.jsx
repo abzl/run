@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { getOneSneaker } from '../../services/sneakers';
-
+import "./SneakersDetail.css";
 
 export default function SneakersDetail(props) {
   const [sneakerItem, setSneakerItem] = useState(null);
@@ -24,7 +24,7 @@ export default function SneakersDetail(props) {
       <p>{sneakerItem?.name}</p>
       <p>{sneakerItem?.price}</p>
       <p>{sneakerItem?.features}</p>
-      <img src={sneakerItem?.img_url} alt={sneakerItem?.name} />
+      <img className = "sneaker-detail-img"src={sneakerItem?.img_url} alt={sneakerItem?.name} />
       {sneakerItem?.reviews.map(review => (
         <p key={review.id}>{review.content}</p>
       ))}

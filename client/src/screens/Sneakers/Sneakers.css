@@ -1,12 +1,26 @@
 .sneakers-card {
     display: flex;
     flex-direction: row;
+    justify-content: space-evenly;
     flex-wrap: wrap;
+    margin-left: 25px;
 
 }
 
 .sneakers-img {
-    height: 200px;
+    height: 300px;
     width: auto;
     border: 1px solid whitesmoke;
+    margin-right: 65px;
+}
+
+@media screen and (max-width: 600px) {
+    .sneakers-card {
+        color: red;
+    }
+
+    .sneakers-img {
+        height: 200px;
+        width: auto;
+    }
 }
