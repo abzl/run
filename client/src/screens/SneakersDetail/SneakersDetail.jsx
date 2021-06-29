@@ -17,21 +17,19 @@ export default function SneakersDetail(props) {
   }, [id]);
   console.log(sneakerItem);
 
-  
-
   return (
     <div>
-      <p>{sneakerItem?.name}</p>
-      <p>{sneakerItem?.price}</p>
-      <p>{sneakerItem?.features}</p>
       <img className = "sneaker-detail-img"src={sneakerItem?.img_url} alt={sneakerItem?.name} />
+      <p className="detail-name">{sneakerItem?.name}</p>
+      <p className="detail-price">${sneakerItem?.price}</p>
+      <p>{sneakerItem?.features}</p>
       {sneakerItem?.reviews.map(review => (
         <p key={review.id}>{review.content}</p>
       ))}
       
       <div>
-        <Link to={`/sneakers/${id}/edit`}><button>Edit</button></Link> 
-        <button onClick={() => handleDelete(sneakerItem.id)}>Delete</button>
+        <Link to={`/sneakers/${id}/edit`}><button className="edit-button">Edit</button></Link> 
+        <button className="delete-edit-button"onClick={() => handleDelete(sneakerItem.id)}>Delete</button>
       </div>
     </div>
     

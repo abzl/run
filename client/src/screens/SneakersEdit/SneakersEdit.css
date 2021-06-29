@@ -1,0 +1,35 @@
+.detail-name {
+    text-align: center;
+}
+
+.edit-container-form {
+    display: inline-block;
+    align-content: center;
+
+}
+
+.sneaker-edit-name,
+.price,
+.features,
+.sneaker-edit-img {
+    border: 1px solid whitesmoke;
+    border-radius: 4px;
+    padding: 12px 20px;
+    margin-top: 8px 0;
+    box-sizing: border-box;
+    width: 40%;
+    margin: 15px;
+}
+
+.sneaker-edit-button {
+    background-color: rgb(78, 133, 246);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    text-decoration: none;
+    border: none;
+    width: 40%;
+    display: inline-block;
+    align-content: center;
+}

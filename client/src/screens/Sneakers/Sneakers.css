@@ -4,14 +4,27 @@
     justify-content: space-evenly;
     flex-wrap: wrap;
     margin-left: 25px;
+}
 
+.sneaker-name {
+    text-align: left;
+    font-size: 15px;
+    margin-top: 2px;
+    font-weight: 400;
+}
+
+.sneaker-price {
+    text-align: left;
+    font-size: 15px;
+    margin-top: 1px;
+    font-weight: 400;
 }
 
 .sneakers-img {
     height: 300px;
     width: auto;
     border: 1px solid whitesmoke;
-    margin-right: 65px;
+    margin-right: 40px;
 }
 
 @media screen and (max-width: 600px) {

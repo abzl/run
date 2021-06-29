@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
+import "./SneakersEdit.css";
 
 export default function SneakersEdit(props) {
   const [formData, setFormData] = useState({
@@ -40,24 +41,24 @@ export default function SneakersEdit(props) {
   };
 
   return (
-    <div edit-container>
+    <div className ="edit-container">
       <h3>Edit Sneaker</h3>
-      <form
+      <form className="edit-container-form"
         onSubmit={(e) => {
           e.preventDefault();
           handleUpdate(id, formData);
         }}>
-        <label label-name>
+        <label>
           Name:
           <input
-            className="sneaker-name"
+            className="sneaker-edit-name"
             type="text"
             name="name"
             value={name}
             onChange={handleChange}
           />
         </label>
-        <label >
+        <label>
           Price:
           <input
             className="price"
@@ -80,14 +81,14 @@ export default function SneakersEdit(props) {
         <label>
           Image:
           <input
-            className="sneaker-name"
+            className="sneaker-edit-img"
             type="url"
             name="img_url"
             value={img_url}
             onChange={handleChange}
           />
         </label>
-        <button>Submit</button>
+        <button className="sneaker-edit-button">Submit</button>
       </form>{" "}
     </div>
   );
