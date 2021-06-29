@@ -1,5 +1,12 @@
+.sneakers-card {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
 .sneakers-img {
-    height: 100px;
-    width: 100px;
-    border: 1px solid black;
+    height: 200px;
+    width: auto;
+    border: 1px solid whitesmoke;
 }

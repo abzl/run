@@ -1,0 +1,15 @@
+header {
+    padding: 20px;
+    background-color: rgb(78, 133, 246);
+    margin-bottom: 10px;
+    letter-spacing: 1.5px;
+}
+
+h1 {
+  color: white;
+}
+
+.current-user {
+  text-align: center;
+}
+
