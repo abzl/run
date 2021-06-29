@@ -24,8 +24,3 @@ export const deleteSneaker = async (id) => {
 	const resp = await api.delete(`/sneakers/${id}`);
 	return resp;
 };
-
-export const addSneaker = async (foodId, flavorId) => {
-	const resp = await api.put(`/flavors/${flavorId}/sneakers/${foodId}`);
-	return resp.data;
-};

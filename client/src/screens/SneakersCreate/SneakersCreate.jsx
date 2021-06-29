@@ -1,7 +1,7 @@
-import { useState, useEffect } from 'react';
-import { useParams } from 'react-router-dom';
+import { useState } from 'react'
 
-export default function SneakersEdit(props) {
+export default function SneakersCreate(props) {
+
   const [formData, setFormData] = useState({
     name: '',
     price: '',
@@ -10,41 +10,25 @@ export default function SneakersEdit(props) {
   });
 
   const { name, price, features, img_url } = formData;
-  const { handleUpdate, sneakers } = props;
-  const { id } = useParams();
+  const { handleCreate } = props;
 
-  useEffect(() => {
-		const prefillFormData = () => {
-			const singleSneaker = sneakers.find((sneaker) => sneaker.id === Number(id));
-			setFormData({
-        name: singleSneaker.name,
-        price: singleSneaker.price,
-        features: singleSneaker.features,
-        img_url: singleSneaker.img_url
-			});
-		};
-		if (sneakers.length) {
-			prefillFormData();
-		}
-  }, [sneakers]);
-  
-	const handleChange = (e) => {
-		const { name, value } = e.target;
-		setFormData((prevState) => ({
-			...prevState,
-			[name]: value,
-		}));
-	}
+  const handleChange = (e) => {
+    const { name, value } = e.target;
+    setFormData((prevState) => ({
+      ...prevState,
+      [name]: value,
+    }));
+  };
 
   return (
     <div>
-    <h3>Edit Sneaker</h3>
+      <h3>Add new Sneaker</h3>
       <form
       onSubmit={(e) => {
 				e.preventDefault();
-				handleUpdate(id, formData);
+				handleCreate(formData);
 			}}>
-        <label> 
+        <label>
           Name:
           <input type="text" name="name" value={name} onChange={handleChange}/>
         </label>
@@ -63,6 +47,7 @@ export default function SneakersEdit(props) {
         <button>
           Submit
         </button>
-      </form>    </div>
+      </form>
+    </div>
   )
 }
